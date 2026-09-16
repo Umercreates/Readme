@@ -1,205 +1,232 @@
-::: {align=“center”}
+<div align="center">
 
-👋 Hey, I’m Umer Shahzad
+# **Umer Shahzad**
 
-🚀 AI & Full Stack Engineer
+### **AI & Full Stack Engineer**
 
-Building intelligent software, AI-powered products & scalable web
-applications.
+**Building intelligent software, AI-powered products & scalable web applications.**
 
-```{=html}
 <p>
-```
-
-<a href="https://linkedin.com/in/umerx360">{=html}
-<img src="https://img.shields.io/badge/LinkedIn-Umer%20Shahzad-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />{=html}
-</a>{=html} <a href="https://kyvorne.com">{=html}
-<img src="https://img.shields.io/badge/Website-Kyvorne-057A4B?style=for-the-badge&logo=google-chrome&logoColor=white" />{=html}
-</a>{=html} <a href="mailto:umeraiengineer@gmail.com">{=html}
-<img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />{=html}
-</a>{=html}
-
-```{=html}
+  <a href="https://linkedin.com/in/umerx360">
+    <img src="https://img.shields.io/badge/LinkedIn-Umer%20Shahzad-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://kyvorne.com">
+    <img src="https://img.shields.io/badge/Website-Kyvorne-057A4B?style=for-the-badge&logo=google-chrome&logoColor=white" />
+  </a>
+  <a href="mailto:umeraiengineer@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
 </p>
-```
 
-:::
+</div>
 
-────────
+---
 
-🧑‍💻 About Me
+## **About Me**
 
-I’m an AI & Full Stack Engineer focused on building practical,
-production-ready software.
+I'm an **AI & Full Stack Engineer** focused on building practical, production-ready software.
 
-I work across the stack — from frontend interfaces and backend
-APIs to LLM applications, RAG systems, AI agents and automation.
+I work across the stack — from **frontend interfaces and backend APIs** to **LLM applications, RAG systems, AI agents, and automation**.
 
-🎓 MS Artificial Intelligence
-💻 AI + Full Stack Development
-🤖 Generative AI & LLM Applications
-🚀 SaaS & Business Systems
+- **MS Artificial Intelligence**
+- **AI & Full Stack Development**
+- **Generative AI & LLM Applications**
+- **RAG & Agentic AI**
+- **SaaS & Business Systems**
+- **Backend APIs & Integrations**
 
-────────
+---
 
-⚡ What I Build
+## **What I Build**
 
-🤖 AI Engineering    💻 Full Stack
+| **AI Engineering** | **Full Stack Development** |
+|---|---|
+| Generative AI | React / Next.js |
+| LLM Applications | FastAPI |
+| RAG Systems | REST APIs |
+| AI Agents | PostgreSQL |
+| AI Automation | SaaS Applications |
+| Prompt Engineering | Dashboards & Web Apps |
 
-────────
+---
 
-Generative AI        React / Next.js
-LLM Applications     FastAPI
-RAG Systems          REST APIs
-AI Agents            PostgreSQL
-AI Automation        SaaS Applications
-Prompt Engineering   Dashboards & Web Apps
+## **Tech Stack**
 
-────────
+### **Languages**
 
-🛠️ Tech Stack
-
-👨‍💻 Languages
-
-```{=html}
 <p>
-```
-
-<img src="https://skillicons.dev/icons?i=python,js,ts,cpp" />{=html}
-
-```{=html}
+  <img src="https://skillicons.dev/icons?i=python,js,ts,cpp" />
 </p>
-```
 
-🤖 AI / Machine Learning
+### **AI & Machine Learning**
 
-```{=html}
 <p>
-```
-
-<img src="https://img.shields.io/badge/Machine%20Learning-FF6F00?style=for-the-badge" />{=html}
-<img src="https://img.shields.io/badge/Generative%20AI-8A2BE2?style=for-the-badge" />{=html}
-<img src="https://img.shields.io/badge/LLMs-412991?style=for-the-badge" />{=html}
-<img src="https://img.shields.io/badge/RAG-00A67E?style=for-the-badge" />{=html}
-<img src="https://img.shields.io/badge/AI%20Agents-FF4B4B?style=for-the-badge" />{=html}
-<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge" />{=html}
-<img src="https://img.shields.io/badge/LangGraph-2D3748?style=for-the-badge" />{=html}
-<img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge" />{=html}
-<img src="https://img.shields.io/badge/Ollama-000000?style=for-the-badge" />{=html}
-
-```{=html}
+  <img src="https://img.shields.io/badge/Machine%20Learning-FF6F00?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Generative%20AI-8A2BE2?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/LLMs-412991?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/RAG-00A67E?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/AI%20Agents-FF4B4B?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/LangGraph-2D3748?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Ollama-000000?style=for-the-badge" />
 </p>
-```
 
-🌐 Full Stack
+### **Frontend & Backend**
 
-```{=html}
 <p>
-```
-
-<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,html,css,fastapi,postgres" />{=html}
-
-```{=html}
+  <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,html,css,fastapi" />
 </p>
-```
 
-🔧 Tools
+### **Database & Infrastructure**
 
-```{=html}
 <p>
-```
-
-<img src="https://skillicons.dev/icons?i=git,github,vscode,docker" />{=html}
-
-```{=html}
+  <img src="https://skillicons.dev/icons?i=postgres,docker" />
 </p>
-```
 
-────────
+### **Tools**
 
-🚀 Featured Projects
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode" />
+</p>
 
-🤖 AI Agent Chatbot
+---
+
+## **Featured Projects**
+
+### **AI Agent Chatbot**
 
 An AI-powered chatbot built with modern LLM and agent technologies.
 
-Tech: Python FastAPI LangGraph OpenAI Groq Streamlit
+**Technologies:**  
+`Python` `FastAPI` `LangGraph` `OpenAI` `Groq` `Streamlit`
 
-────────
+---
 
-📚 Document RAG System
+### **Document RAG System**
 
-A document-based question-answering system using retrieval-augmented
-generation and vector search.
+A document question-answering system using Retrieval-Augmented Generation and vector search.
 
-Tech: Python LLMs RAG Vector Database
+**Technologies:**  
+`Python` `LLMs` `RAG` `Vector Database`
 
-────────
+---
 
-📊 AI Social Media Sales & Automation Platform
+### **AI Social Media Sales & Automation Platform**
 
-A full-stack SaaS platform combining social media management, AI-powered
-conversations, lead qualification, CRM and sales automation.
+A full-stack SaaS platform combining social media management, AI-powered conversations, lead qualification, CRM, and sales automation.
 
-Tech: Next.js React TypeScript PostgreSQL REST APIs
-OpenAI
+**Technologies:**  
+`Next.js` `React` `TypeScript` `PostgreSQL` `REST APIs` `OpenAI`
 
-────────
+**Features:**
 
-📈 GitHub Stats
+- Social Media Management
+- AI Chatbot
+- Lead Qualification
+- AI Calling
+- CRM & Sales Management
+- Business Automation
+- Analytics & Dashboards
 
-::: {align=“center”}
-<img src="https://github-readme-stats.vercel.app/api?username=Umercreates&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="180"/>{=html}
+---
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Umercreates&layout=compact&theme=tokyonight&hide_border=true" height="180"/>{=html}
-:::
+## **Experience**
 
-────────
+### **AI & Full Stack Engineering**
 
-🔥 Contribution Streak
+Working on practical software products involving:
 
-::: {align=“center”}
-<img src="https://streak-stats.demolab.com?user=Umercreates&theme=tokyonight&hide_border=true" />{=html}
-:::
+- AI-powered applications
+- Generative AI
+- LLM integrations
+- Backend APIs
+- Full-stack web applications
+- Automation workflows
+- SaaS platforms
 
-────────
+---
 
-💡 Currently
+## **GitHub Stats**
 
-🔭 Building AI-powered software & SaaS products
+<div align="center">
 
-🤖 Exploring LLMs, RAG & Agentic AI
+<img src="https://github-readme-stats.vercel.app/api?username=Umercreates&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="180" />
 
-💻 Improving my Full Stack engineering skills
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Umercreates&layout=compact&theme=tokyonight&hide_border=true" height="180" />
 
-☁️ Learning more about Cloud & Production AI
+</div>
 
-📚 Pursuing my MS in Artificial Intelligence
+---
 
-────────
+## **Contribution Streak**
 
-🤝 Let’s Connect
+<div align="center">
 
-::: {align=“center”}
+<img src="https://streak-stats.demolab.com?user=Umercreates&theme=tokyonight&hide_border=true" />
 
-💬 Have an idea or project?
+</div>
 
-Let’s build something useful together.
+---
 
-<a href="https://linkedin.com/in/umerx360">{=html}
-<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />{=html}
-</a>{=html}
+## **Currently Working On**
 
-<a href="https://kyvorne.com">{=html}
-<img src="https://img.shields.io/badge/🌐%20Kyvorne-Visit%20Website-057A4B?style=for-the-badge" />{=html}
-</a>{=html}
-:::
+- Building **AI-powered software & SaaS products**
+- Exploring **LLMs, RAG & Agentic AI**
+- Improving **Full Stack engineering**
+- Learning **Cloud & Production AI**
+- Building **AI automation & intelligent systems**
+- Pursuing an **MS in Artificial Intelligence**
 
-────────
+---
 
-::: {align=“center”}
+## **Areas of Interest**
 
-⭐ Thanks for visiting my profile!
+<p align="center">
 
-<img src="https://komarev.com/ghpvc/?username=Umercreates&label=Profile%20Views&color=057A4B&style=flat-square" />{=html}
-:::
+<img src="https://img.shields.io/badge/Artificial%20Intelligence-8A2BE2?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Generative%20AI-FF6F00?style=for-the-badge" />
+<img src="https://img.shields.io/badge/LLM%20Engineering-412991?style=for-the-badge" />
+<img src="https://img.shields.io/badge/RAG-00A67E?style=for-the-badge" />
+<img src="https://img.shields.io/badge/AI%20Agents-FF4B4B?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Full%20Stack-0A66C2?style=for-the-badge" />
+<img src="https://img.shields.io/badge/SaaS-6C63FF?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Automation-2EA44F?style=for-the-badge" />
+
+</p>
+
+---
+
+## **Let's Connect**
+
+<div align="center">
+
+### **Have an idea or project?**
+
+**Let's build something useful together.**
+
+<p>
+  <a href="https://linkedin.com/in/umerx360">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+
+  <a href="https://kyvorne.com">
+    <img src="https://img.shields.io/badge/Website-Kyvorne-057A4B?style=for-the-badge&logo=google-chrome&logoColor=white" />
+  </a>
+
+  <a href="mailto:umeraiengineer@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
+
+</div>
+
+---
+
+<div align="center">
+
+**Thanks for visiting my profile.**
+
+**Building. Learning. Shipping.**
+
+</div>
